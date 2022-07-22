@@ -6,9 +6,9 @@
 
 ## Projects
 
-- (Shift Planner)[https://shiftplanner-pawangujral.herokuapp.com/]
-- (Woof)[https://woof-pawangujral.herokuapp.com/]
-- (Hacker News)[https://hackernews-pawangujral.herokuapp.com/]
+- [Shift Planner](https://shiftplanner-pawangujral.herokuapp.com/)
+- [Woof](https://woof-pawangujral.herokuapp.com/)
+- [Hacker News](https://hackernews-pawangujral.herokuapp.com/)
 
 
 <!---
